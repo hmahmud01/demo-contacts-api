@@ -2,7 +2,7 @@
 *Node Js Backend Assessment for Nanoid*
 
 This project is for Assessment purpose only
-Project is Completed in the environment of Node@14.15.4 and npm@6.14.10 and MOngoDB was used for Database
+Project is Completed in the environment of Node@14.15.4 and npm@6.14.10 and MongoDB was used for Database
 
 ## Instructions to Run this project
 Follow the stpes to Run the project.
