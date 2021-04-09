@@ -25,5 +25,11 @@ Follow the steps to test the apis
     "height": 143
 }
 ```
-* click send it will respond with ```201``` if there is no data or wrong data type input made, it will respond ```500```
+* click send it will respond with ```201``` with the id of the created people.
+```javascript
+{
+    "id": "60702dd80a92641710ce0c5c"
+}
+```
+if there is no data or wrong data type input made, it will respond ```500```
                   
